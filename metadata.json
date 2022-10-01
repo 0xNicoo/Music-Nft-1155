@@ -1,0 +1,8 @@
+{
+    "name": "song name",
+    "artist_name": "artist name",
+    "description": "🤫😎☝",
+    "image": "image ipfs uri",
+    "audio_url": "song ipfs uri",
+    "animation_url": "vidio/gif ipfs uri"
+}
